@@ -1,0 +1,2 @@
+# Academic Unit Management System
+ This project is a Python-based software application designed for managing records and profiles in an academic unit. It provides a robust, user-friendly interface to register, manage, and authenticate different types of users, such as teachers and students (both undergraduate and postgraduate). The system leverages object-oriented principles like encapsulation and inheritance to structure the classes and functionalities effectively.
